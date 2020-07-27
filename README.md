@@ -1,4 +1,4 @@
-# Fishing Map
+# DSC NTOU
 
 This repository serves the website of DSC NTOU. This project is open source and the license can be found in LICENSE.
 
