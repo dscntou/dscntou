@@ -29,9 +29,9 @@ Use pip to install Python depedencies:
 
 ### Get Ready for Development
 
-`cd` into the `fishingMap` directory:
+`cd` into the `dscntou` directory:
 
-    cd fishingMap
+    cd dscntou
 
 And migrate the database:
 
