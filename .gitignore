@@ -96,3 +96,5 @@ deploy_key.pub
 /secrets.tar
 /src/coverage.xml
 media/
+
+templated-*/
