@@ -6,4 +6,5 @@ from . import views
 urlpatterns = [
     path('', views.home, name = 'home'),
     path('CoC', views.CoC, name = 'CoC'),
+    path('about', views.about, name = 'about'),
 ]+ static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT) + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
